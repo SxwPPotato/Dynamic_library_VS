@@ -1,6 +1,6 @@
 #pragma once
 #include <string>
-#ifdef DYNAMIC_PROJECT_DLL_EXPORTS
+#ifdef Leaver_DLL_EXPORTS
 #define LEAVER_API __declspec(dllexport)
 #else
 #define LEAVER_API __declspec(dllimport)
