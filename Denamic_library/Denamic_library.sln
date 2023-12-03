@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Denamic_library", "Denamic_library.vcxproj", "{0C9F6B8F-0A8B-48A6-9A3E-2282431486FE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic_project.dll", "..\Dynamic_project.dll\Dynamic_project.dll.vcxproj", "{D00BE17B-2F10-467D-9B79-EF012E702CD7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dynamic_project.dll", "..\Dynamic_project_dll\Dynamic_project.dll.vcxproj", "{D00BE17B-2F10-467D-9B79-EF012E702CD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

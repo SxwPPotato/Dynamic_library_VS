@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\1\Homework\Lesson 11\Dynamic library\Dynamic_project.dll;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Dynamic_project.dll;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -131,7 +131,7 @@
     <ClCompile Include="Denamic_library.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dynamic_project.dll\Dynamic_project.dll.vcxproj">
+    <ProjectReference Include="..\Dynamic_project_dll\Dynamic_project.dll.vcxproj">
       <Project>{d00be17b-2f10-467d-9b79-ef012e702cd7}</Project>
     </ProjectReference>
   </ItemGroup>
